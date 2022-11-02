@@ -1,0 +1,59 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #ffffff;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.card-container-light {
+  background-color: #000000;
+  background-size: cover;
+  height: 150px;
+  width: 350px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  border-width: 2px;
+  border-color: #000000;
+  box-shadow: 1px 1px 1px 1px #000000;
+}
+.card-container-dark {
+  background-color: #ffffff;
+  background-size: cover;
+  height: 150px;
+  width: 350px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  border-color: #000000;
+  box-shadow: 1px 1px 1px 1px #000000;
+}
+.heading-light {
+  color: #ffffff;
+  font-family: Roboto;
+}
+.heading-dark {
+  color: #000000;
+  font-family: Roboto;
+}
+.button-light {
+  height: 38px;
+  width: 90px;
+  border-radius: 10px;
+  border-width: 2px;
+  border-color: #000000;
+}
+.button-dark {
+  height: 38px;
+  width: 90px;
+  border-radius: 10px;
+  border-width: 2px;
+  border-color: #000000;
+}
